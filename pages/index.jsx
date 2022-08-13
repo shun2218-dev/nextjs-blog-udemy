@@ -36,7 +36,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd} >
         <p>
-          私はフロントエンドエンジニアです。好きな言語はJavascriptです。
+          私はNext.jsエンジニアです。好きなフレームワークはNext.jsです。
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
